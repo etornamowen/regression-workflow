@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Scratch output from running utils/plot_manager.py directly
+test_plots/
